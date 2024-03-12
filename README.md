@@ -7,7 +7,7 @@ Hi there, I'm Saurav 👋
 </h3>
 
 <h2 align="center">
-I'm a Senior Cloud Engineer 💻 ☁️ and Blogger 📑!
+I'm a Senior Cloud Engineer 💻 ☁️ and a Blogger 📑!
 </h2> 
 
 
