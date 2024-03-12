@@ -34,7 +34,12 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 - [Decoding Git and GitHub: A Beginner’s Guide to Version Control (Part 2)](https://medium.com/@sauravdas969.sd/decoding-git-and-github-a-beginners-guide-to-version-control-part-2-d4d29d6020e6)
 - [Decoding Git and GitHub: A Beginner’s Guide to Version Control (Part 1)](https://medium.com/@sauravdas969.sd/decoding-git-and-github-a-beginners-guide-to-version-control-part-1-7508fb1188d5)
 
+## 🧰 Languages and Tools:
+<!--Toolbox icons -->
 
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bicep.svg" alt="Azure Bicep" width="40" height="40"/> <a href="https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/> </p>
+
+---
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
