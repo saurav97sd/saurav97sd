@@ -1,6 +1,6 @@
 # Hi, I'm Saurav 👋🏾 🧑🏽‍💻
 
-<img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/Profile.jpg" alt="banner that says Saurav Das - Senior Cloud Engineer and Content Creator">
+<img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/PNGProfile.png" alt="banner that says Saurav Das - Senior Cloud Engineer and Content Creator">
 
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
