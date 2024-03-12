@@ -18,7 +18,12 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 <a href="https://www.linkedin.com/in/saurav-das-devops-eng/"><img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/Images/linkedin.svg" alt="Saurav Das | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@sauravdas969.sd"><img align="left" src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/Images/medium-2177.svg" alt="Saurav Das | Medium" width="21px"/></a>
 </br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🔭 I'm currently learning and working on
+
+- GitHub Actions
+- Provisioning Azure Infra using Terraform with GitHub Action project
 
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
