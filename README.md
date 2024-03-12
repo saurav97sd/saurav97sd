@@ -23,10 +23,17 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 ## 🔭 I'm currently working on
 
 - Provisioning Azure Infra using Terraform with GitHub Action project
+- Third installment of my blob on Git and Github for beginner
 
 ## 🌱 I'm currently learning
 
 - GitHub Actions
+
+## 📝 Latest Blog Posts
+
+- [Decoding Git and GitHub: A Beginner’s Guide to Version Control (Part 2)](https://medium.com/@sauravdas969.sd/decoding-git-and-github-a-beginners-guide-to-version-control-part-2-d4d29d6020e6)
+- [Decoding Git and GitHub: A Beginner’s Guide to Version Control (Part 1)](https://medium.com/@sauravdas969.sd/decoding-git-and-github-a-beginners-guide-to-version-control-part-1-7508fb1188d5)
+
 
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
