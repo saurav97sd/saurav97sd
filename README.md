@@ -1,6 +1,8 @@
 # Hi, I'm Saurav 👋🏾 🧑🏽‍💻
 
 <img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/PNGProfile.png" alt="banner that says Saurav Das - Senior Cloud Engineer and Content Creator">
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saurav-das-devops-eng/)
+
 
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
