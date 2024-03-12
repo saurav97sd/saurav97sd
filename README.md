@@ -15,7 +15,7 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 
 
 ### 🤝 Connect with me:
-
+<a href="https://www.linkedin.com/in/saurav-das-devops-eng/"><img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/Images/linkedin.svg" alt="Saurav Das | LinkedIn" width="21px"/></a>
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
