@@ -1,8 +1,20 @@
-# Hi, I'm Saurav 👋🏾 🧑🏽‍💻
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/PNGProfile.png" alt="banner that says Saurav Das - Senior Cloud Engineer and Content Creator">
+</p>
 
-<img src="https://raw.githubusercontent.com/saurav97sd/saurav97sd/main/PNGProfile.png" alt="banner that says Saurav Das - Senior Cloud Engineer and Content Creator">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saurav-das-devops-eng/)
+<h3 align="center">
+Hi there, I'm Saurav 👋
+</h3>
 
+<h2 align="center">
+I'm a Senior Cloud Engineer 💻 ☁️ and Blogger 📑!
+</h2> 
+
+---
+As a cloud enginner, I love orchestrating virtual infrastructures and making data work smoothly. Crafting scalable solutions and automating mannual workflows are my passions in the ever-evolving realm of technology.
+---
+
+### 🤝 Connect with me:
 
 <!--
 **saurav97sd/saurav97sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
