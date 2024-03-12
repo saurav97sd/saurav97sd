@@ -23,7 +23,7 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 ## 🔭 I'm currently working on
 
 - Provisioning Azure Infra using Terraform with GitHub Action project
-- Third installment of my blob on Git and Github for beginner
+- Third installment of my blog on Git and Github for beginner
 
 ## 🌱 I'm currently learning
 
