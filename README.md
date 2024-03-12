@@ -41,6 +41,7 @@ As a cloud enginner, I love orchestrating virtual infrastructures and making dat
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bicep.svg" alt="Azure Bicep" width="40" height="40"/>
 <a href="https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" alt="PowerShell" width="40" height="40"/>
 
 ---
 <!--
